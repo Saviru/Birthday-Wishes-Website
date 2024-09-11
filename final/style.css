@@ -1,0 +1,13 @@
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+span {
+	font-size: 11px;
+}
+
+body {
+	overflow: hidden;
+}
